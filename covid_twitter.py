@@ -4,7 +4,7 @@ import datetime
 import pandas as pd 
 import numpy as np 
 
-home_dir = 'C:/Users/Luis/Desktop/personal/github/covid twitter bot' # personal directory for project
+home_dir = 'C:/Users/Luis/Desktop/github/covid twitter bot' # personal directory for project
 ref = pd.read_json(f'{home_dir}/ref.json', typ='series') # twitter 
 
 covid_api = ref['covid_api_key'] # api_key for https://apidocs.covidactnow.org/access/
