@@ -1,0 +1,1 @@
+D:/Programs/Anaconda/python.exe "c:/Users/Luis/Desktop/personal/github/covid twitter bot/covid_twitter.py"
